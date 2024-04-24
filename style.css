@@ -122,3 +122,6 @@ p {
 .img_deg{
     position: relative; bottom: 300px;
 }
+#re{
+    position: relative; top: 100px;
+}
