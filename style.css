@@ -126,6 +126,6 @@ p {
     position: relative; top: 100px;
 }
 #list{
-    font-size: 75px;
+    font-size: 300%px;
     font-weight: bold;
 }
