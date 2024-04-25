@@ -1,4 +1,4 @@
-
+d
 #bg{
     background-color: white;
 }
@@ -124,4 +124,8 @@ p {
 }
 #re{
     position: relative; top: 100px;
+}
+#list{
+    font-size: 150%;
+    font-weight: bold;
 }
