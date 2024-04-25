@@ -90,6 +90,7 @@ p {
 }
 #ph{
     position: relative; right: 800px;
+    top: 50px;
     float: right;
     font-size: 200%;
     font-weight: bold;
