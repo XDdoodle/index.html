@@ -1,4 +1,4 @@
-d
+
 #bg{
     background-color: white;
 }
@@ -123,8 +123,8 @@ p {
     position: absolute;
     left: 600px;
     top: 300px;
-    width: 40%;
-    height: 80%;
+    width: 525px;
+    height: 300px;
 }
 .img_deg{
     position: relative; bottom: 300px;
