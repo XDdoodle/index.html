@@ -1,4 +1,4 @@
-
+d
 #bg{
     background-color: white;
 }
@@ -123,8 +123,8 @@ p {
     position: absolute;
     left: 600px;
     top: 300px;
-    width: 525px;
-    height: 300px;
+    width: 40%;
+    height: 80%;
 }
 .img_deg{
     position: relative; bottom: 300px;
@@ -151,6 +151,13 @@ p {
 #swimInstructorText{
     position: absolute;
     left:65px;
-    top:950px;
+    top:850px;
+}
+
+.img_keg{
+    position:absolute;
+    width: 40%;
+    bottom: 90px;
+    left: 600px;
 }
 
