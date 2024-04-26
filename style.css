@@ -163,6 +163,10 @@ p {
     left: 600px;
 }
 .benefitText{
-    
+    position: absolute;
+    top: 90px
 }
-
+#abouttext{
+    position: absolute;
+    top: 90px
+}
