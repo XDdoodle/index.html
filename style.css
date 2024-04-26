@@ -74,7 +74,7 @@ p {
 }
 #hd{
     position: relative;
-    top: 500px;
+    top: 495px;
     font-size: 200%;
     .underline {
         text-decoration: underline;
@@ -96,7 +96,7 @@ p {
 #ph{
     position: absolute; 
     right: 1161px;
-    bottom: 200px;
+    bottom: 190px;
     float: right;
     font-size: 200%;
     font-weight: bold;
@@ -151,7 +151,7 @@ p {
 
 #lifeGuardText{
     position: absolute;
-    top:670px;
+    top:700px;
 }
 #swimInstructorText{
     position: absolute;
@@ -173,3 +173,33 @@ p {
     position: absolute;
     top: 350px
 }
+
+#lifehead{
+    position: absolute;
+    top: 650px;
+    font-size: 200%;
+    font-weight: bold;
+    .underline {
+        text-decoration: underline;
+    }
+}
+
+#rechead{
+    font-size: 200%;
+    font-weight: bold;
+    .underline {
+        text-decoration: underline;
+    }
+}
+
+#insthead{
+    font-size: 200%;
+    font-weight: bold;
+    .underline {
+        text-decoration: underline;
+    }
+}
+    
+    
+    
+
