@@ -172,3 +172,28 @@ p {
     position: absolute;
     top: 350px
 }
+.rechead{
+font-size: 200%;
+    font-weight: bold;
+    margin-left: 0%;
+    .underline {
+        text-decoration: underline;
+      }
+}
+.lifehead{
+    font-size: 200%;
+    font-weight: bold;
+    margin-left: 0%;
+    .underline {
+        text-decoration: underline;
+      }
+}
+.insthead{
+    font-size: 200%;
+    font-weight: bold;
+    margin-left: 0%;
+    .underline {
+        text-decoration: underline;
+      }
+}
+
