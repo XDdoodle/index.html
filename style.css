@@ -74,7 +74,7 @@ p {
 }
 #hd{
     position: relative;
-    top: 40px;
+    top: 500px;
     font-size: 200%;
     .underline {
         text-decoration: underline;
@@ -130,7 +130,8 @@ p {
 }
 .img_deg{
     width: 60%;
-    position: relative; bottom: 300px;
+    position: absolute; 
+    top: 25px;
 }
 #re{
     position: relative; top: 100px;
@@ -160,14 +161,14 @@ p {
 .img_keg{
     position:absolute;
     width: 40%;
-    bottom: 90px;
+    top: 400px;
     left: 600px;
 }
 .benefitText{
     position: absolute;
-    top: 820px;
+    top: 850px;
 }
 #abouttext{
     position: absolute;
-    top: 230px
+    top: 350px
 }
