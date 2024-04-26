@@ -54,6 +54,8 @@ p {
   }
   
 #lg{
+    position: absolute;
+    top: 630;
     font-size: 200%;
     font-weight: bold;
     margin-left: 0%;
@@ -72,7 +74,7 @@ p {
 }
 #hd{
     position: relative;
-    bottom: 20px;
+    top: 40px;
     font-size: 200%;
     .underline {
         text-decoration: underline;
@@ -146,7 +148,7 @@ p {
 
 #lifeGuardText{
     position: absolute;
-    top:640px;
+    top:670px;
 }
 #swimInstructorText{
     position: absolute;
