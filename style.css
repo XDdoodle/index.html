@@ -74,7 +74,7 @@ p {
 }
 #hd{
     position: relative;
-    top: 500px;
+    top: 25px;
     font-size: 200%;
     .underline {
         text-decoration: underline;
