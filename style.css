@@ -199,6 +199,12 @@ p {
         text-decoration: underline;
     }
 }
+
+#list{
+    font-size: 150%;
+    position: absolute;
+    right: 90px;
+}
     
     
     
