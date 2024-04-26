@@ -122,9 +122,9 @@ p {
 .img_teg{
     position: absolute;
     left: 600px;
-    top: 300px;
+    top: 245px;
     width: 40%;
-    height: 80%;
+    height: 70%;
 }
 .img_deg{
     position: relative; bottom: 300px;
@@ -151,7 +151,7 @@ p {
 #swimInstructorText{
     position: absolute;
     left:65px;
-    top:950px;
+    top:980px;
 }
 
 .img_keg{
